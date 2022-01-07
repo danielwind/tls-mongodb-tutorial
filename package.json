@@ -1,0 +1,23 @@
+{
+  "name": "tls-mongodb-tutorial",
+  "version": "1.0.0",
+  "description": "NodeJS app that connects to protected TLS MongoDB instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielwind/tls-mongodb-tutorial.git"
+  },
+  "author": "Daniel Wind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielwind/tls-mongodb-tutorial/issues"
+  },
+  "homepage": "https://github.com/danielwind/tls-mongodb-tutorial#readme",
+  "dependencies": {
+    "mongoose": "^6.1.5"
+  }
+}
